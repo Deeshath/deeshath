@@ -39,20 +39,23 @@ I’m a backend developer with 4 years of experience, focusing on building scala
 
 ## 📈 GitHub Stats
 
+<!--
 [![Deeshath's GitHub stats](https://github-readme-stats.vercel.app/api?username=deeshath&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deeshath&theme=radical&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
-
+-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=deeshath&theme=dark)](https://git.io/streak-stats)
+<!--
 [![Deeshath's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deeshath)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=deeshath&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=deeshath&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 ![GitHub Contribution Snake](https://github.com/Deeshath/deeshath/blob/output/snake.svg)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeshath&layout=compact&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Total Contributions**:  
 ![Contributions](https://github-readme-stats.vercel.app/api?username=deeshath&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
+-->
 
 ## 🔗 Connect with Me
 
