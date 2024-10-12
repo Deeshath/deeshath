@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Deeeshath!
+# Hi there 👋, I'm Deeshath!
 
 [![GitHub followers](https://img.shields.io/github/followers/deeshath?label=Follow&style=social)](https://github.com/deeshath)
 [![LinkedIn: Deeshath](https://img.shields.io/badge/-Deeshath-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deeshath/)](https://www.linkedin.com/in/deeshath/)
