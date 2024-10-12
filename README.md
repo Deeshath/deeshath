@@ -43,7 +43,7 @@ I’m a backend developer with 4 years of experience, focusing on building scala
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deeshath&theme=radical&date_format=M%20j%5B%2C%20Y%5D&count_private=true)](https://git.io/streak-stats)
 
-[![Deeshath's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=deeshath&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true&count_private=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Deeshath's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deeshath)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=deeshath&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
