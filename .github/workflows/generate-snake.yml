@@ -11,9 +11,9 @@ jobs:
 
     steps:
       # Generates the snake animation from a user's contributions graph
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
-          github_user_name: deeshath  # Replace 'deeshath' with your GitHub username
+          github_user_name: deeshath  
           outputs: dist/snake.svg
 
       # Pushes the generated snake.svg to the repository
