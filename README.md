@@ -47,12 +47,12 @@ I’m a backend developer with 4 years of experience, focusing on building scala
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=deeshath&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-![GitHub Contribution Snake](https://github.com/deeshath/deeshath/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/Deeshath/deeshath/blob/output/snake.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deeshath&layout=compact&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 - **Total Contributions**:  
-![Contributions](https://github-readme-stats.vercel.app/api?username=deeshath&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Contributions](https://github-readme-stats.vercel.app/api?username=deeshath&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
 
 ## 🔗 Connect with Me
 
